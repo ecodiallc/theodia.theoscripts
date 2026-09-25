@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/ecodiallc/theodia.theoscripts/main/README.md
 
 | ID | Name | Version | Description | Package |
 |---|---|---|---|---|
-| sample.greeting | Greeting | 0.1.0 | A sample Theoscript that prints a greeting. | sample.greeting.theoscript.zip |
-| theodia.examples | Example Theoscripts | 0.1.0 | Sample scripts demonstrating Theoscript syntax and common tasks. | theodia.examples.theoscript.zip |
+| sample.greeting | Greeting | 0.1.0 | A sample Theoscript that prints a greeting. | Sample.Greeting.theoscript.zip |
+| theodia.examples | Example Theoscripts | 0.1.0 | Sample scripts demonstrating Theoscript syntax and common tasks. | Theodia.Examples.theoscript.zip |
 
 ## Theoscript packages
 
