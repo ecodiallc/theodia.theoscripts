@@ -3,18 +3,6 @@
   "updatedAt": "2026-09-25T00:00:00.000Z",
   "packages": [
     {
-      "id": "sample.greeting",
-      "type": "theoscript",
-      "path": "Sample.Greeting.theoscript.zip",
-      "name": "Greeting",
-      "description": "A sample Theoscript that prints a greeting.",
-      "author": "Theodia",
-      "category": "Examples",
-      "tags": ["theoscript", "sample", "greeting", "example"],
-      "version": "0.1.0",
-      "minAppVersion": "0.1.3"
-    },
-    {
       "id": "theodia.examples",
       "type": "theoscript",
       "path": "Theodia.Examples.theoscript.zip",
