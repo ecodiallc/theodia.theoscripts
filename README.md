@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/ecodiallc/theodia.theoscripts/main/README.md
 
 | ID | Name | Version | Description | Package |
 |---|---|---|---|---|
-| sample.greeting | Greeting | 0.1.0 | A sample Theoscript that prints a greeting. | Sample.Greeting.theoscript.zip |
-| theodia.examples | Example Theoscripts | 0.1.0 | Sample scripts demonstrating Theoscript syntax and common tasks. | Theodia.Examples.theoscript.zip |
+| theodia.examples | Example Theoscripts | 0.1.0 | Sample scripts demonstrating Theoscript syntax and common tasks. | Theodia-Examples.theoscript.zip |
+| theodia.chapter-statistics | Chapter Statistics | 0.1.0 | Counts the words and sentences in a chapter. | Theodia-Chapter-Statistics.theoscript.zip |
 
 ## Theoscript packages
 
