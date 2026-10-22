@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T00:41:16.930Z",
   "packages": [
     {
       "id": "theodia.examples",
@@ -10,7 +10,11 @@
       "description": "Sample scripts demonstrating Theoscript syntax and common tasks.",
       "author": "Theodia",
       "category": "Examples",
-      "tags": ["theoscript", "examples", "samples"],
+      "tags": [
+        "theoscript",
+        "examples",
+        "samples"
+      ],
       "version": "0.1.0",
       "minAppVersion": "0.1.3"
     },
@@ -22,7 +26,12 @@
       "description": "Counts the words and sentences in a chapter.",
       "author": "Theodia",
       "category": "Study",
-      "tags": ["theoscript", "study", "statistics", "chapter"],
+      "tags": [
+        "theoscript",
+        "study",
+        "statistics",
+        "chapter"
+      ],
       "version": "0.1.0",
       "minAppVersion": "0.1.3"
     }
